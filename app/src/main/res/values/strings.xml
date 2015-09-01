@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AudioRecorder</string>
+
+    <string name="app_info">Place to Record your voice here!!</string>
+    <string name="start_recording">Start</string>
+    <string name="stop_recording">Stop</string>
+
+
+</resources>
